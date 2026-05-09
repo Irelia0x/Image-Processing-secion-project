@@ -3,6 +3,8 @@
 A unified Python pipeline that preprocesses, filters, and applies edge
 detection & segmentation to the Gender Classification dataset.
 
+Code Linke: https://colab.research.google.com/drive/1CaKFXXAFn2HykOB2wa1cEoqIbTHrPixu?usp=sharing
+
 ---
 
 ## Project structure
