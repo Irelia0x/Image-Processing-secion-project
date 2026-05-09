@@ -15,7 +15,6 @@ image-processing-pipeline/
 ├── image_processing_pipeline.py   ← single entry-point script
 ├── README.md
 ├── report.pdf                     ← full technical report
-└── requirements.txt
 ```
 
 ---
