@@ -1,8 +1,7 @@
 # Image Processing Pipeline 🖼️
 
 A unified Python pipeline that preprocesses, filters, and applies edge
-detection & segmentation to the Gender Classification dataset — no model,
-no deployment required.
+detection & segmentation to the Gender Classification dataset.
 
 ---
 
@@ -52,40 +51,6 @@ reads every sub-folder automatically.
 
 ---
 
-## Requirements
-
-```
-opencv-python
-scikit-image
-numpy
-```
-
-Install on Kaggle (already available) or locally:
-
-```bash
-pip install opencv-python scikit-image numpy
-```
-
----
-
-## How to run
-
-```python
-# In a Kaggle notebook cell:
-exec(open("image_processing_pipeline.py").read())
-```
-
-Or as a standalone script:
-
-```bash
-python image_processing_pipeline.py
-```
-
-The script runs all three stages sequentially and prints progress.
-A ZIP archive of Stage 3 results is created at
-`/kaggle/working/final_results.zip`.
-
----
 
 ## Stage details
 
